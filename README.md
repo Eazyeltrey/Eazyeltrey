@@ -4,7 +4,7 @@
 
 🔧 **Aspiring IT Professional | Cybersecurity & Cloud Student | USAF Vet**
 
-I'm studying **Cloud Computing** and **Cybersecurity** while also preparing for the **CompTIA Network+ N10-009** certification. I bring over 10 years of leadership and technical experience from the U.S. Air Force, where I worked extensively in aircraft maintenance on (F22s, F16s, HH60s, C130s and the best of them all, A10s), fitness training, and IT asset management. I’m passionate about learning Python and growing in the fields of networking, and security.
+Recent double major Cyber/Cloud Graduate, preparing for Network+ cert. I bring over 10 years of leadership and technical experience from the U.S. Air Force, where I worked extensively in aircraft maintenance on (F22s, F16s, HH60s, C130s and the best of them all, A10s), fitness training, and IT asset management. I’m passionate about learning Python and growing in the fields of networking, and security.
 
 ---
 
