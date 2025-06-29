@@ -1,13 +1,10 @@
-## Hi there 👋
 <a href="https://www.linkedin.com/in/earl-white-0579a1268"/>
-<!--
-**Eazyeltrey/Eazyeltrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# 👋 Hi & welcome, I'm L White!
+# 👋 Hola! I'm L White!
 
-🔧 **Aspiring IT Professional | Cybersecurity & Cloud Student | Military Veteran**
+🔧 **Aspiring IT Professional | Cybersecurity & Cloud Student | USAF Vet**
 
-I'm currently studying **Cloud Computing** and **Cybersecurity** while also preparing for the **CompTIA Network+ N10-009** certification. I bring over 10 years of leadership and technical experience from the U.S. Air Force, where I worked extensively in aircraft maintenance, fitness training, and IT asset management. I’m passionate about learning Python and growing in the fields of networking, security, and cloud infrastructure.
+I'm studying **Cloud Computing** and **Cybersecurity** while also preparing for the **CompTIA Network+ N10-009** certification. I bring over 10 years of leadership and technical experience from the U.S. Air Force, where I worked extensively in aircraft maintenance on (F22s, F16s, HH60s, C130s and the best of them all, A10s), fitness training, and IT asset management. I’m passionate about learning Python and growing in the fields of networking, and security.
 
 ---
 
@@ -16,7 +13,6 @@ I'm currently studying **Cloud Computing** and **Cybersecurity** while also prep
 - 🎓 **Bachelor's Degrees (in progress)**:  
   - Cybersecurity (April 2025)  
   - Cloud Computing (August 2025)  
-  - Associate’s in Computer Science (March 2024)
 
 - 💼 ** Experience**:  
   - Laptop Refresher Technician
@@ -27,9 +23,9 @@ I'm currently studying **Cloud Computing** and **Cybersecurity** while also prep
 - ⚙️ **Past Roles in the U.S. Air Force**:  
   - IT Equipment Custodian (ITEC) Program Manager  
   - Section Lead, Aircraft Maintenance Craftsman  
-  - Resilience Training Facilitator (1000+ personnel trained)
+  - Training Facilitator (1000+ personnel trained)
 
-- 📍 Location: Hampton, Virginia  
+- 📍 Location: Hampton Roads, Virginia  
 - 📜 **Security+ Certified | Network+ (in progress)**  
 - 💬 Ask me about: transitioning into IT, cybersecurity, or cloud careers from military service
 
@@ -63,20 +59,18 @@ I'm currently studying **Cloud Computing** and **Cybersecurity** while also prep
 
 - 🧠 Master **Python** for scripting and automation  
 - 📚 Pass the **CompTIA Network+ N10-009** exam  
-- ☁️ Gain hands-on experience with **AWS**, Linux, and system administration  
-- 👨‍💻 Contribute to beginner-friendly open source projects  
-- 🛠 Build and share labs/projects that reflect my journey from military aviation to IT
+- 🛠 Build and share labs/projects that show case my skills for professional recruitment
 
 ---
 
 ## 🔗 Connect with Me @
 
 - 🔗 LinkedIn: [linkedin.com/in/earl-white-0579a1268](https://www.linkedin.com/in/earl-white-0579a1268)  
-- 🌍 Location: Hampton, Virginia
+
 
 ---
 
 > "Leadership, discipline, and continuous growth — values I carry from the military into every line of code I write."
 
 Thanks for stopping by!
- -->
+
